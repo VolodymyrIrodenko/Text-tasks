@@ -123,4 +123,4 @@ The Amazon Rainforest is one of the world's most valuable ecosystems. Continued 
 
 ## Amazon Rainforest Image
 
-![Amazon Rainforest](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Amazon_Rainforest.jpg/800px-Amazon_Rainforest.jpg)
+![Amazon Rainforest](https://i.natgeofe.com/n/1246f5d7-9f8f-4d5e-8f7e-0c7e8a5c50e3/amazon-rainforest.jpg)

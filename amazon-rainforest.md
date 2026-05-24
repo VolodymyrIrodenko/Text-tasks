@@ -118,5 +118,5 @@ Useful resource:
 ## Conclusion
 
 The Amazon Rainforest is one of the world's most valuable ecosystems. Continued conservation efforts are essential to protect biodiversity, climate stability, and future generations.
+
 ![Amazon Rainforest](Amazonrainforest.jpg)
----
